@@ -1,6 +1,19 @@
 {"data":[
     {
         "id":"993",
+        "title":"New Website",
+        "category":"Pumas",
+        "summary":"Pumas has a new web site! The new web site provides a modern browsing experience with support for mobile devices.",
+        "detail":"<p>Pumas has a new web site! The new web site provides a modern browsing experience with support for mobile devices.</p><p>Enhancements to optimize support for mobile devices are planned for January. Photo galleries and teams rosters from previous seasons will be added over the next few months as well.</p>",
+        "displayIcon":"icon-screen-desktop",
+        "displayIconStyle":"",
+        "postedOn": "2016-12-14",
+        "postedOnDisplay":"",
+        "postedBy":"Mike Ezekiel",
+        "endAnnouncement": "2016-12-31"
+    },
+    {
+        "id":"994",
         "title":"Tryout Results",
         "category":"Tryouts",
         "summary":"Tryout results for both Club and Open teams have been <a href='/tryouts-results' routerLink='/tryouts-results'>posted</a>.",
@@ -13,7 +26,7 @@
         "endAnnouncement": "2016-12-31"
     },
     {
-        "id":"994",
+        "id":"995",
         "title":"Sad News",
         "category":"Players",
         "summary":"It is with a heavy heart that Pumas lets you know that Maureen Staudt of North Andover, mother of Emma Staudt, passed away Thursday December 1st. Our heartfelt condolences go out to Emma, her father Jim and her brother Joseph.",
@@ -25,19 +38,6 @@
         "postedBy": "Mike Ezekiel",
         "endAnnouncement":"2016-12-18"
     },    
-    {
-        "id":"995",
-        "title":"New Website",
-        "category":"Pumas",
-        "summary":"Pumas has a new web site! The new web site provides a modern browsing experience with support for mobile devices.",
-        "detail":"<p>Pumas has a new web site! The new web site provides a modern browsing experience with support for mobile devices.</p><p>Enhancements to optimize support for mobile devices are planned for January. Photo galleries and teams rosters from previous seasons will be added over the next few months as well.</p>",
-        "displayIcon":"icon-screen-desktop",
-        "displayIconStyle":"",
-        "postedOn": "2016-12-02",
-        "postedOnDisplay":"",
-        "postedBy":"Mike Ezekiel",
-        "endAnnouncement": "2016-12-31"
-    },
     {
         "id":"996",
         "title":"12U Tryout Changes",
